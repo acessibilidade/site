@@ -1,2 +1,2 @@
-# guia de acessibilidade - Work In Progress
-Guia de Acessibilidade para o projeto Acessibilida.de
+# site Todos por Acessibilidade (http://acessibilida.de) - Work In Progress
+Conteúdo do site
